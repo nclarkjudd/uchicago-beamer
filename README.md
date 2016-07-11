@@ -20,6 +20,8 @@ call the `UChicago` theme in the preamble of your `.tex` file:
 
 The theme depends on packages `graphicx` and `textpos`.
 
+This fork additionally requires "ETBembo," which is released under an MIT License and [available here](https://github.com/edwardtufte/et-book).
+
 Please be sure that `beamerthemeUChicago.sty`, `uchicago.eps`, and
 `ucseal.eps`
 are in the same directory as your LaTeX document.
@@ -46,6 +48,7 @@ This `UChicago` LaTeX beamer theme is hosted at https://github.com/JacksonLLee/u
 
 Copyright
 ---------
+Modifications to this theme were made in 2016 by Nicholas Judd. 
 
 Copyright 2015 Jackson Lee
 
